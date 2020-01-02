@@ -14,10 +14,12 @@ and all of these will be done with Python and ArduinoC Programming languages
 ✔️Many exciting concepts were applied while making the project come to life:
 
 -Applying the concept of MultiThreading in Python
+
 -More experience in parallel and concurrent execution
+
 -Applying PEP-8 standards and S.O.L.I.D principles.
 
--Video shows brief of the work: https://youtu.be/aF7od5ZciDE?list=PLixqqFR0zxH9hIyZE1OhR_eSUgJifiXqq
+-Video shows brief of the work: https://youtu.be/aF7od5ZciDE
 
 -Documentation are shown in Robotic Arm F.pdf
 
