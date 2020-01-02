@@ -17,6 +17,7 @@ and all of these will be done with Python and ArduinoC Programming languages
 -More experience in parallel and concurrent execution
 -Applying PEP-8 standards and S.O.L.I.D principles.
 
-Video shows brief of the work: https://youtu.be/aF7od5ZciDE?list=PLixqqFR0zxH9hIyZE1OhR_eSUgJifiXqq
+-Video shows brief of the work: https://youtu.be/aF7od5ZciDE?list=PLixqqFR0zxH9hIyZE1OhR_eSUgJifiXqq
+-Slides are shown in Robotic Arm F.pdf
 
-LinkedIn profile: https://www.linkedin.com/in/beshr-eldebuch/
+-LinkedIn profile: https://www.linkedin.com/in/beshr-eldebuch/
