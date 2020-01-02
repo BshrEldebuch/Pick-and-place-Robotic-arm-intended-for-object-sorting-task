@@ -19,6 +19,6 @@ and all of these will be done with Python and ArduinoC Programming languages
 
 -Video shows brief of the work: https://youtu.be/aF7od5ZciDE?list=PLixqqFR0zxH9hIyZE1OhR_eSUgJifiXqq
 
--Slides are shown in Robotic Arm F.pdf
+-Documentation are shown in Robotic Arm F.pdf
 
 -LinkedIn profile: https://www.linkedin.com/in/beshr-eldebuch/
